@@ -1,17 +1,17 @@
-
 # Revenue & Retention Analytics Capstone
 
-## Overview
-End-to-end data analytics project using SQL, BI, and Python to analyze
-revenue, conversion, and customer retention.
+## Goal
+Understand what drives revenue, conversion, and customer retention.
 
-## Stack
-- SQL (fact tables, KPIs)
-- Power BI / Tableau (executive dashboards)
-- Python (cohort retention, churn drivers)
+## What I Did
+- Built clean fact tables and KPI views in SQL
+- Designed an executive dashboard (revenue, conversion, retention)
+- Analyzed cohort retention and churn drivers in Python
 
-## How to Run
-1. Install requirements: `pip install -r requirements.txt`
-2. Generate data: `python python/00_generate_data.py`
-3. Load CSVs into SQL and run scripts in `/sql`
-4. Run Python analyses in `/python`
+## Key Outputs
+- Daily revenue and conversion KPIs
+- Monthly cohort retention analysis
+- Churn driver insights with recommendations
+
+## Tools
+SQL · Python · pandas · Power BI / Tableau
